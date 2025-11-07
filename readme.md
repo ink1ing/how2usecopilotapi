@@ -1,8 +1,9 @@
 1.需要nodejs、claudecode、githubcopilot 
 
-2.终端输入copilot-api start
+2.npm install -g copilot-api
 
-3.用给出的url进行github授权
+3.终端输入copilot-api start
+用给出的url进行github授权
 
 4.编辑~/.claude/settings.json
 "env": {
